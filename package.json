@@ -4,6 +4,10 @@
 	"keywords": ["freecodecamp","shop","milk"],
 	"license": "MIT",
 	"version": "1.2.0",
+	"dependencies": {
+		"express": "^4.16.4",
+		"helmet": "^3.14.0"
+	  },
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
